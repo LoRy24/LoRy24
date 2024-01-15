@@ -14,7 +14,7 @@ I've already started to work on some interesting projects, such as [@Abstract-Pa
 
 <img src="https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/github_dark/3-stats.svg" align="right">
 
-### Brief
+### 📃 Brief
 
 Here are some facts about myself:
 - 🏢 I work as a freelancer at Fiverr.com
@@ -33,7 +33,7 @@ Here are some facts about myself:
 Mostly, my skills are derived by self learning during some years of Middle school. Today, I'm able to learn very fast all the things that I need in order to work on something.
 Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty well on a lot of projects.
 
-### Social media:
+### 📷 Social media:
 <p align="left" style="margin-left: 0px;">
     <a href="https://www.youtube.com/@LoRy24">YouTube</a> •
     <a href="https://www.instagram.com/lory24_yt/">Instagram</a> •
@@ -41,7 +41,7 @@ Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty
     <a href="https://discord.lory24.dev/">Discord</a>
 </p>
 
-## Other Stats:
+## 📊 Other Stats:
 
 <img src="https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/github_dark/0-profile-details.svg" align="left">
 
