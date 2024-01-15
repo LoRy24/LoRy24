@@ -1,5 +1,6 @@
 # 👋 Welcome! I'm Lorenzo Rocca (aka LoRy24)
-**Welcome to my profile!** I'm currently a 🧑‍🎓 student at [I.T.I.S. Magistri Cumacini (CO)](https://www.magistricumacini.edu.it/), but
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=10000&color=F79C5D&vCenter=true&random=false&width=435&height=20&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)<br>
+I'm currently a 🧑‍🎓 student at [I.T.I.S. Magistri Cumacini (CO)](https://www.magistricumacini.edu.it/), but
 I've already started to work on some interesting projects, such as [@Abstract-Panthers](https://github.com/Abstract-Panthers).
 <br>
 
