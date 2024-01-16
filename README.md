@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Lorenzo Rocca (aka LoRy24)
+# 👋 Welcome! I'm Lorenzo Rocca 🇮🇹 (aka LoRy24)
 <p align="left">
     <img src="https://custom-icon-badges.demolab.com/github/followers/LoRy24?color=%23307CE8&label=FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=people&logoColor=white&labelColor=2366C8">
     <img src="https://custom-icon-badges.demolab.com/github/stars/LoRy24?color=2FCB4A&label=STARS&logoColor=%23296DCE&style=for-the-badge&logo=star&logoColor=white&labelColor=26BB40">
