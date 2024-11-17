@@ -36,7 +36,7 @@ Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty
 ### 📷 Social media:
 <p align="left" style="margin-left: 0px;">
     <a href="https://www.youtube.com/@LoRy24">YouTube</a> •
-    <a href="https://www.instagram.com/lory24_yt/">Instagram</a> •
+    <a href="https://www.instagram.com/lr.rocca/">Instagram</a> •
     <a href="https://www.lory24.dev/">Website</a> •
     <a href="https://discord.lory24.dev/">Discord</a>
 </p>
@@ -45,4 +45,7 @@ Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty
 
 <img src="https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/github_dark/0-profile-details.svg" align="left">
 
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
