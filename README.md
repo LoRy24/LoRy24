@@ -48,4 +48,4 @@ Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LoRy24)](https://github.com/ryo-ma/github-profile-trophy)
