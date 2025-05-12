@@ -17,7 +17,7 @@ I've already started to work on some interesting projects, such as [@Abstract-Pa
 ### 📃 Brief
 
 Here are some facts about myself:
-- 🏢 I work as a freelancer at Fiverr.com
+- 🏢 I'm focusing on personal projects
 - 😻 I love Cats (and all the cute animals)
 - 🕹️ I was the owner of a Minecraft server, and i love Videogames
 - 💻 I love coding since i was 8 y.o.
