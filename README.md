@@ -19,7 +19,7 @@ I've already started to work on some interesting projects, such as [@Abstract-Pa
 Here are some facts about myself:
 - 🏢 I work as a freelancer at Fiverr.com
 - 😻 I love Cats (and all the cute animals)
-- 🕹️ I am the owner of a Minecraft server, and i love Videogames
+- 🕹️ I was the owner of a Minecraft server, and i love Videogames
 - 💻 I love coding since i was 8 y.o.
 - 🤯 Whenever something is complex, I LOVE IT ❤️
 - 💡 I always try to learn something new, making experience or learning by working with other people
@@ -31,7 +31,7 @@ Here are some facts about myself:
 - ☕ My favourite programming language is... Java 🥰
 
 Mostly, my skills are derived by self learning during some years of Middle school. Today, I'm able to learn very fast all the things that I need in order to work on something.
-Thanks to this approach of mine, at the age of 16 y.o. I was able to work pretty well on a lot of projects.
+Thanks to this approach of mine, at the age of 17 y.o. I was able to work pretty well on a lot of projects.
 
 ### 📷 Social media:
 <p align="left" style="margin-left: 0px;">
