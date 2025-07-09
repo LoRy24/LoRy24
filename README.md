@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=10000&color=F79C5D&vCenter=true&random=false&width=435&height=20&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)<br>
 I'm currently a 🧑‍🎓 student at [I.T.I.S. Magistri Cumacini (CO)](https://www.magistricumacini.edu.it/), but
-I've already started to work on some interesting projects, such as [@Xenyor Development]([https://github.com/Abstract-Panthers](https://github.com/xenyor-development)).
+I've already started to work on some interesting projects, such as [@Xenyor Development](https://github.com/xenyor-development).
 <br>
 
 <img src="https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/github_dark/3-stats.svg" align="right">
