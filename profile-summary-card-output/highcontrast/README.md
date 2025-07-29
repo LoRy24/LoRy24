@@ -15,6 +15,46 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/highcontrast/0-profile-details.svg)
+```
+
+    
+
+---
+
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/highcontrast/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/LoRy24/LoRy24/master/profile-summary-card-output/highcontrast/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
