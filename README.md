@@ -1,3 +1,4 @@
+[![An image of @lory24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lory24)](https://holopin.io/@lory24)
 # 👋 Welcome! I'm Lorenzo Rocca 🇮🇹 (aka LoRy24)
 <p align="left">
     <img src="https://custom-icon-badges.demolab.com/github/followers/LoRy24?color=%23307CE8&label=FOLLOWERS&logoColor=%23296DCE&style=for-the-badge&logo=people&logoColor=white&labelColor=2366C8">
